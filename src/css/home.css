@@ -1,0 +1,13 @@
+.home_info {
+    background-color: #FF4365;
+}
+
+.div_container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.info_img img {
+    width: 50%;
+}
